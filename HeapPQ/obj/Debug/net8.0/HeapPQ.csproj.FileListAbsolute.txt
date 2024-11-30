@@ -1,0 +1,15 @@
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\obj\Debug\net8.0\HeapPQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\obj\Debug\net8.0\HeapPQ.AssemblyInfoInputs.cache
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\obj\Debug\net8.0\HeapPQ.AssemblyInfo.cs
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\obj\Debug\net8.0\HeapPQ.csproj.CoreCompileInputs.cache
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\obj\Debug\net8.0\HeapPQ.sourcelink.json
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\bin\Debug\net8.0\HeapPQ.exe
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\bin\Debug\net8.0\HeapPQ.deps.json
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\bin\Debug\net8.0\HeapPQ.runtimeconfig.json
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\bin\Debug\net8.0\HeapPQ.dll
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\bin\Debug\net8.0\HeapPQ.pdb
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\obj\Debug\net8.0\HeapPQ.dll
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\obj\Debug\net8.0\refint\HeapPQ.dll
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\obj\Debug\net8.0\HeapPQ.pdb
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\obj\Debug\net8.0\HeapPQ.genruntimeconfig.cache
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework5heapsaspqs-lbrooks81\HeapPQ\obj\Debug\net8.0\ref\HeapPQ.dll
