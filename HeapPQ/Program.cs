@@ -1,10 +1,4 @@
-﻿/*
- * Name: Logan Brooks
- * South Hills Username: lbrooks81
- */
-
-
-namespace HeapPQ
+﻿namespace HeapPQ
 {
     public class Program
     {
